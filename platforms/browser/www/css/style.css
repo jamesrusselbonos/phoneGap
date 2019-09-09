@@ -34,10 +34,9 @@ body
 }
 
 
-.container
+.container form
 {
-  margin: 0px auto;
-  padding: 0;
+  padding-top: 50%;
 }
 
 .app
