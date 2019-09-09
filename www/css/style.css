@@ -31,12 +31,13 @@ body
     position: relative;
   font-family: 'Open Sans', sans-serif;
   font-size: 1em;
+  background-color: #DB3E3E;
 }
 
 
 .container form
 {
-  padding-top: 50%;
+  padding-top:0%;
 }
 
 .app
